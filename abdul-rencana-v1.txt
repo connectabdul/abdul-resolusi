@@ -1,5 +1,7 @@
 Rencana v1 abdul
 - Python
+  * Pendahuluan
+  * Modes & Basic
 - PostgreSQL
 - PHP
 - MySQL
