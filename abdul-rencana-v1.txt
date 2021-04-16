@@ -1,0 +1,5 @@
+Rencana v1 abdul
+- Python
+- PostgreSQL
+- PHP
+- MySQL
