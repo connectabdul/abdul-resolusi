@@ -3,5 +3,6 @@ Rencana v1 abdul
   * Pendahuluan
   * Modes & Basic
 - PostgreSQL
+- CSS
 - PHP
 - MySQL
